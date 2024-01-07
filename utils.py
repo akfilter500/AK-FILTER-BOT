@@ -478,7 +478,7 @@ async def get_shortlink(chat_id, link):
         #     link = link.replace("http", https) #replacing http to https
         # conn = http.client.HTTPSConnection("api.shareus.io")
         # payload = json.dumps({
-        #   "api_key": "4c1YTBacB6PTuwogBiEIFvZN5TI3",
+        #   "api_key": "zQxv8e47a3fedRckrQCA2wWuvdA2",
         #   "monetization": True,
         #   "destination": link,
         #   "ad_page": 3,
@@ -671,7 +671,7 @@ async def send_all(bot, userid, files, ident, chat_id, user_name, query):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Kgashok04")
+                                InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Askcaptainbot")
                                 ]
                             ]
                         )
